@@ -1,0 +1,21 @@
+{
+  "name": "gulp_sass_example",
+  "version": "1.0.0",
+  "description": "simple example to get started with gulp and sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "patrick mulder",
+  "license": "mit",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {
+    "gulp-debug": "^2.1.2",
+    "gulp-sass-lint": "^1.2.0"
+  }
+}
